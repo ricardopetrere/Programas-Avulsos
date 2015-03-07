@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsMWS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=RICARDO;Initial Catalog=MWS_FRIGON_PARAMETRIZADA</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>43bb840b-19dc-4ee9-bd7a-d233d147b0c8</DataSourceID>
+</RptDataSource>
