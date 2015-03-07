@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco3", "Banco3\Banco3.csproj", "{BB10E651-6E43-479A-9435-009DB13CD08E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{48F234D3-3844-4CEF-BBAB-FF8C1E74ABB5}"
+	ProjectSection(SolutionItems) = preProject
+		Criacao_Banco3.sql = Criacao_Banco3.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainelInferior", "PainelInferior\PainelInferior.csproj", "{F4528744-A501-4EE9-BD39-CCEDB06F04CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB10E651-6E43-479A-9435-009DB13CD08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB10E651-6E43-479A-9435-009DB13CD08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB10E651-6E43-479A-9435-009DB13CD08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB10E651-6E43-479A-9435-009DB13CD08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4528744-A501-4EE9-BD39-CCEDB06F04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4528744-A501-4EE9-BD39-CCEDB06F04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4528744-A501-4EE9-BD39-CCEDB06F04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4528744-A501-4EE9-BD39-CCEDB06F04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
