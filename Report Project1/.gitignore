@@ -1,1 +1,2 @@
-﻿*.rds
+﻿#Arquivo de conexão de banco de dados utilizada na geração dos reports, então é melhor não deixar visível
+*.rds
